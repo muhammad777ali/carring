@@ -1,0 +1,13 @@
+.gameHome {
+    position:absolute;
+    top:0;
+    left:0;
+    background:url(../images/car.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+    width:100vw;
+    transform-origin:0% 0%;
+    text-align:center;
+}
